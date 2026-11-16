@@ -1,0 +1,17 @@
+  body {  
+      background-repeat:unset;
+        background-image: url("../image/tempo.webp");
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin-top: 70px;
+        background-color: rgb(5, 4, 4);
+        color: rgb(243, 0, 0);
+    }
+
+    #relogio {
+    
+        font-size: 100px;
+        letter-spacing: 100px;
+    } 
+
+    
